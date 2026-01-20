@@ -265,9 +265,9 @@ jupyter notebook Copy_of_Untitled22.ipynb
 
 | Component | URL | Port |
 |-----------|-----|------|
-| Landing Page | http://localhost:5173 | 5173 |
-| Frontend Dashboard | http://localhost:5174 | 5174 |
-| Backend API | http://localhost:3000 | 3000 |
+| Landing Page | http://localhost:3001 | 3001 |
+| Frontend Dashboard | http://localhost:3000 | 3000 |
+| Backend API | http://localhost:5000 | 5000 |
 | Mobile App | http://localhost:3001 | 3001 |
 | ML Jupyter | http://localhost:8888 | 8888 |
 
