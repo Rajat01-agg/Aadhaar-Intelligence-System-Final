@@ -23,7 +23,7 @@
 
 The UIDAI Aadhaar Intelligence System ML Pipeline is a comprehensive solution designed to analyze Aadhaar authentication data at scale. It performs multi-layered anomaly detection, identifies patterns, trends, and generates actionable insights for policy makers and security teams.
 
-**Notebook:** `Copy_of_Untitled22.ipynb` (All-in-One Google Colab Solution)
+**Notebook:** `aadhaarIntelligence.ipynb`
 
 ### Key Capabilities:
 - 🔍 **Anomaly Detection** - Identify unusual patterns and outliers
