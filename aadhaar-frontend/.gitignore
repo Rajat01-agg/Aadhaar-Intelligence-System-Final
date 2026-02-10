@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.local
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Vite cache
+.vite/
+
+# Temporary files
+*.tmp
+.cache/
+
+# Coverage
+coverage/

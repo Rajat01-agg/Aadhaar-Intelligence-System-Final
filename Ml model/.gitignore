@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# ML Model files (optional - uncomment if needed)
+# *.pkl
+# *.h5
+# *.joblib
+# *.pt
+# *.pth
+
+# Data files (optional)
+# *.csv
+# *.xlsx
+# *.json
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
